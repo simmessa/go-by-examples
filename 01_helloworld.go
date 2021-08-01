@@ -1,5 +1,7 @@
 package main
-import "fmt"
-func main() {
-    fmt.Println("hello world")
+
+import "fmt" //wtf is this for formatting text?
+
+func main(){
+    fmt.Println("Hello creepy world of Golang...")
 }
